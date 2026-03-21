@@ -82,12 +82,24 @@ The goal of Tier 1 is to gain a robust foundational knowledge of web development
 | [Eloquent JavaScript](https://eloquentjavascript.net/)                    |        |          |
 | [CSS Tricks](https://css-tricks.com/guides/)                              |        |          |
 
+| Mathematics                                                                               | Status | Evidence |
+| :------------------------------------------------------------------------------------ | :----: | :------: |
+| [Arithmetic](https://www.khanacademy.org/math/arithmetic)                             |        |          |
+| [Pre-algebra](https://www.khanacademy.org/math/pre-algebra)                           |        |          |
+| [Algebra I](https://www.khanacademy.org/math/algebra)                                 |        |          |
+| [Geometry](https://www.khanacademy.org/math/geometry)                                 |        |          |
 
 <!-- TOC --><a name="tier-2-practice"></a>
 ## Tier 2 - Practice
 
 ### Goal
 The goal of Tier 2 is to gain substantial hands-on programming practice. You have two options for selecting where you'd prefer to dedicate that practice.
+
+| Mathematics                                                                               | Status | Evidence |
+| :------------------------------------------------------------------------------------ | :----: | :------: |
+| [Algebra II](https://www.khanacademy.org/math/algebra2)                               |        |          |
+| [Trigonometry](https://www.khanacademy.org/math/trigonometry)                         |        |          |
+| [Precalculus](https://www.khanacademy.org/math/precalculus)                           |        |          |
 
 **Pick one of the two paths below:**
 
@@ -176,6 +188,12 @@ The goal of Tier 3 is to gain skills that will serve you well as you begin a job
 | [Oracle's Java Documentation](https://dev.java/learn/)            |        |          |
 | [The Algorithms: Java](https://github.com/TheAlgorithms/Java?tab=readme-ov-file) |        |          | 
 
+| Mathematics                                                                               | Status | Evidence |
+| :------------------------------------------------------------------------------------ | :----: | :------: |
+| [Calculus I](https://www.khanacademy.org/math/calculus-1)                             |        |          |
+| [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) |        |          |
+| [Calculus II](https://www.khanacademy.org/math/calculus-2)                            |        |          |
+
 <!-- TOC --><a name="tier-4-develop-a-portfolio"></a>
 ## Tier 4 - Develop a Portfolio
 
@@ -192,6 +210,12 @@ The goal of Tier 4 is to polish a portfolio of your best work.
 - Aim for between 5 and 10 projects and ensure at least two projects are substantial in size and scope
 - If you intend to dive deeper into React or Angular in Tier 5, you may choose to include a few less projects at this point, knowing that you will be adding a few more in that tier.
 - If you need project ideas, ask ChatGPT using very specific prompts for project ideas of the scope you need and using the skills and technologies you'd like to highlight
+
+| Mathematics                                                                               | Status | Evidence |
+| :------------------------------------------------------------------------------------ | :----: | :------: |
+| [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)     |        |          |
+| [Differential Equations](https://www.khanacademy.org/math/differential-equations)     |        |          |
+| [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)                     |        |          |
   
 <!-- TOC --><a name="tier-5-dive-deeper"></a>
 ## Tier 5 - Dive Deeper
