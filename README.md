@@ -2,8 +2,6 @@
 <!-- TOC --><a name="p1xt-guides-version-60"></a>
 # P1xt Guides - Version 6.1
 
-Please take a moment to read the [notes](#notes) at the bottom of the page. They explain some of my philosophy of learning and contain some suggestions and tips which might help you make the most of your learning journey (particularly as it relates to the resources contained here.)
-
 
 <!-- TOC start  -->
 ## Table of Contents
@@ -32,7 +30,6 @@ Please take a moment to read the [notes](#notes) at the bottom of the page. They
       - [Instructions:](#instructions-6)
     - [Tier 5 - Focus Area - Mathematics](#tier-5---focus-area---mathematics)
     - [Tier 5 - Focus Area - Computer Science](#tier-5---focus-area---computer-science)
-  - [Notes](#notes)
 
 <!-- TOC end -->
 
@@ -312,63 +309,3 @@ Note: This focus area dives a bit deeper into nitty-gritty computer science topi
 | [Performance Engineering of Software Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/) |        |          |
 | [Compilers](https://online.stanford.edu/courses/soe-ycscs1-compilers)                                                                                                               |        |          |
 
----
-<!-- TOC --><a name="notes"></a>
-## Notes
-
-Before you start, please let me introduce a bit of my philosophy for learning how to be a top-notch programmer. 
-
-- always be learning 
-- always be practicing
-- always help others when you can 
-- include learning some math
-
-Programming, software engineering, web development, whatever you want to call it, however you want to approach it, has one immutable characteristic - it's a field in flux, and there are new advances every day - don't let this discourage you, but do let it instill in you an excitement for **learning**. Learning new technologies should be an exciting opportunity for growth, not a disappointing drudgery. Start, from day one, with a celebratory mindset about learning new things - that mindset will skyrocket your progress.
-
-You’ll learn a lot from taking courses. You’ll learn a lot from watching videos. You’ll learn a lot from “reading the docs.” All of these are important, in fact crucial, on your path. If you want to retain all that great learning, you need to **practice** it. Practice will transform something you've been exposed to into something you can “reliably do.” Lean heavily into practicing.
-
-You're learning, you're practicing - do you want to excel? Yes? Then find opportunities to **help others** learn. There is no other activity that will prepare you better to interview well than consistently helping others. It teaches you to interact well with others and communicate technical concepts.
-
-Yeah, yeah, yeah, you can find a billion people on the internet who will tell you you don't need **math** to be a good programmer. I agree, to a certain extent. That said, math is about learning to solve increasingly complex problems. And, knowing how to logically go about solving increasingly complex problems is what programming is all about. Don't sleep on math, every little extra bit you learn will make you that much better at problem-solving. Yeah, you “can do fine” without the math, but with it, you fly!
-
-**Helpful (non-programming) resources**
-- [Notion](https://www.notion.so) - for taking notes (in markdown which will help you write README's later)
-- [Finch](https://finchcare.com/) - take care of yourself while communing with a sweet little birb
-
-**Curriculum advice**
-- Always have a practice project you're working on and something you're reading. This gives you productive stuff to do if you need a break from what you're learning.
-- Finish what you start, even if it's difficult. You'll learn perserverance (extremely valuable), develop confidence, and minimize the risk of getting stuck in a never-ending loop of just repeating beginner stuff while never really being able to do anything amazing.
-- If you're wondering what all the "Status" and "Evidence" columns are for, they're so that if you fork this repository, you can show when you begin and finish each item (in your fork) and link any projects you did in "Evidence" as a sort of journal for yourself so you can browse back over your journey (and possibly find projects for your eventual portfolio faster)
-- You'll notice a Khan Academy link in each tier, prompting you to practice mathematics there. Don't get too hung up on which math you "need". Instead focus on learning a bit more math than you already know. Pick whichever course is next in line for you, then when you finish that one, pick the next one. In general, you won't go wrong if you progress into algebra, geometry, trigonometry, statistics, pre-calculus, calculus, and discrete mathematics. But, don't stress on it, just practice some at the level you're at now - grow over time. Look at the bottom of this document for general mathematics progression.
-  
-**General advice**
-- If you can't summon the willpower to do anything, decide "I'll do five minutes, that's enough for today." And, then, do 5 minutes. 5 minutes is more than 0 minutes and sometimes leads to ... more minutes ... or not, be ok with either.
-- Get enough sleep, everything is better if you've slept well. I'm serious about this part - if you're not well rested, you will learn more if you get a good night of sleep than if you try to push through a few more hours learning. You don't just learn while you're studying. While you're sleeping, your mind makes sense of all the stuff you've been learning. Sleep is an important part of the process.
-- Eat well. If your body and mind have the nutrients they need, they can do their jobs better.
-- Get some physical activity. You don't have to run a marathon (unless you're into that) but being physically active helps your body and your mind. Even if it's just a leisurely walk a time or two a day - be active. This will legit help you learn more.
-- As soon as you know one thing, help anyone struggling with that one thing. Add to the list of things you help others with as you learn more things. You aren't just helping others, you are helping yourself. You are learning "the thing" more deeply and you are practicing communicationg about technical things. This is a skill you want to be practicing your entire journey, not trying to figure out the day before an interview. One way to do this is by joining the communication channels (like discord) for the various resources as you work through them. The Odin Project, especially, has a thriving community and you'd never be wanting for people to help there.
-- You are not special because you know more than someone else. Treat others with dignity and respect. Be humble. No matter how much you've learned, you don't know everything. Lead with kindness, it'll serve you well.
-- If you want practice with git, and don't have a project in mind, take your notes in markdown and save the `.md` files in a github (or gitlab) repository of your notes. You'll get practice with git and get practice with markdown. It's a twofer.
-
----
-
-<!-- TOC --><a name="general-math-progression"></a>
-**General math progression**
-
-Note: As I said above, don't stress about math. Should you desire to leverage a greater understanding of math to improve your logical problem solving ability, the following sequence will serve you well. Please feel free to skip (or test out of) any topics you already know well.
-
-| Courses                                                                               | Status | Evidence |
-| :------------------------------------------------------------------------------------ | :----: | :------: |
-| [Arithmetic](https://www.khanacademy.org/math/arithmetic)                             |        |          |
-| [Pre-algebra](https://www.khanacademy.org/math/pre-algebra)                           |        |          |
-| [Algebra I](https://www.khanacademy.org/math/algebra)                                 |        |          |
-| [Geometry](https://www.khanacademy.org/math/geometry)                                 |        |          |
-| [Algebra II](https://www.khanacademy.org/math/algebra2)                               |        |          |
-| [Trigonometry](https://www.khanacademy.org/math/trigonometry)                         |        |          |
-| [Precalculus](https://www.khanacademy.org/math/precalculus)                           |        |          |
-| [Calculus I](https://www.khanacademy.org/math/calculus-1)                             |        |          |
-| [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) |        |          |
-| [Calculus II](https://www.khanacademy.org/math/calculus-2)                            |        |          |
-| [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)     |        |          |
-| [Differential Equations](https://www.khanacademy.org/math/differential-equations)     |        |          |
-| [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)                     |        |          |
