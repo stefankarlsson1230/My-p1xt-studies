@@ -38,13 +38,6 @@
 
 ### Goal
 The goal of Tier 1 is to gain a robust foundational knowledge of web development and become confident at coding beginner to intermediate-level web projects. It should provide a stepping stone for branching into other facets of development or for diving deeper into more advanced web development.
-
-### Instructions:
-- Proceed through the projects alongside the Odin Project so that you are always practicing by building a project on Frontend Mentor while you progress through Odin.
-- When you begin working on the Frontend Mentor projects, sign up for their discord and engage with the community. Help others when you can.
-- Include mathematics in your studies if possible. There is a General Mathematics Progression at the bottom of the [Notes](#notes) below to guide you to whatever course in the sequence is appropriate for your level.
-- Leverage the reading material listed for this tier while completing the projects. It covers the materials from the courses in much greater depth and will help a lot. You should be familiar with both reading it and using it as a reference when you have questions by the end of the tier.
-- Near the end of this tier, polish up two of your best projects, showcasing your best work, for potential leverage in creating your portfolio in Tier 4.
   
 | Activity                                                                                                                                                                     | Status | Evidence |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
@@ -69,6 +62,7 @@ The goal of Tier 1 is to gain a robust foundational knowledge of web development
 | [Project: Base Apparel coming soon page](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0)                                    |        |          |
 | [Project: Intro component with sign-up form](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1)                             |        |          |
 | [Project: Ping single column coming soon page](https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da)                        |        |          |
+| Polish two of your best projects for potential leverage in creating your portfolio in Tier 4.                                                                                |        |          |
 
 
 | Reading                                                                   | Status | Evidence |
