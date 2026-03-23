@@ -1,6 +1,6 @@
 
 <!-- TOC --><a name="p1xt-guides-version-60"></a>
-# P1xt Guides - Version 6.1
+# My P1xt Studies
 
 
 <!-- TOC start  -->
